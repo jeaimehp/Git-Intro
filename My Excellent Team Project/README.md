@@ -1,4 +1,4 @@
-# My Exellent Tem Project!
+# My Exellent Team Project!
 
 **TEAM MEMBERS**
 * Me
