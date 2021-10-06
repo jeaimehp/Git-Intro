@@ -1,6 +1,3 @@
 # Git-Intro
-Test Repo for SGCI Training
+Test Repo for HackHPC Training
 
-Add index.html
-
-Add JHP
