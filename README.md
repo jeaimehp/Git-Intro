@@ -12,3 +12,14 @@ Test Repo for HackHPC Training
 * awesome thing 3
 
 ## Another thing
+
+
+
+# Team Name
+## Project Name
+Goal: I just want to get this thing done. 
+
+## Team Members
+* Me
+* Myself
+* I
