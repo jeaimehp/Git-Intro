@@ -12,7 +12,7 @@ The purpose of this repository was to show some of the basics of creating a READ
 ## Here is a picture of the computer used to test this amazing program
 
 
-![deepthought.jpg](deepthought.jpg)
+![Cool Picture](deepthought.jpg)
 
 ## Running the code from OSX
 
