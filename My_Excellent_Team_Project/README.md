@@ -14,6 +14,9 @@ The purpose of this repository was to show some of the basics of creating a READ
 
 ![Cool Picture](deepthought.jpg)
 
+
+[Cool Picture](deepthought.jpg)
+
 ## Running the code from OSX
 
 ```python3 main.py```
