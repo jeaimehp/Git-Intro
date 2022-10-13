@@ -1,25 +1,10 @@
-# Git-Intro
-Test Repo for HackHPC Training
+# Team Rams Amazing Project to make classes better
 
-# Here is my Markdown Link
-[GitHub Markdown](https://github.github.com/gfm)
-
-
-## Thing covered here
-* awesome thing 1
-* awesome thing 2
-  * This is *important also* 
-* awesome thing 3
-
-## Another thing
-
-
-
-# Team Name
-## Project Name
-Goal: I just want to get this thing done. 
+Target Course: CSC1311 - General Programming
 
 ## Team Members
-* Me
-* Myself
-* I
+* Dr. Rebecca Caldwell (WSSU)
+* Dr. Munene Kanampiu (WSSU)
+* Dr. Elijah MacCarthy (ORNL)
+
+
