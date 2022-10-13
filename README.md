@@ -1,5 +1,7 @@
 # Team Rams Amazing Project to make classes better
 
+[voltron](voltron.jpg)
+
 Target Course: CSC1311 - General Programming
 
 ## Team Members
