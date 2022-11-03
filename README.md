@@ -1,6 +1,8 @@
 # Team Rams Amazing Project to make classes better
 
 
+[Markdown Reference](https://github.github.com/gfm)
+
 Target Course: CSC1311 - General Programming
 
 ## Team Members
