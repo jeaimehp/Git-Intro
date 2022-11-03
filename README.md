@@ -1,5 +1,7 @@
 # Team Rams Amazing Project to make classes better
 
+<img src="deepthought.jpeg"></img>
+
 
 [Markdown Reference](https://github.github.com/gfm)
 
